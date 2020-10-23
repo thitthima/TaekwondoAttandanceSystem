@@ -1,6 +1,5 @@
 # TaekwondoAttandanceSystem
 
-UTeM Taekwondo Attendance System
 ================================
 
 To use the system:
